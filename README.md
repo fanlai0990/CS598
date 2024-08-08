@@ -125,7 +125,7 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
 
 
 ### Lecture Summaries
-Each group will also be assigned to **write summaries for at least one lectures**. 
+Each group will also be assigned to **write summaries for at least TWO lectures**. 
 The summary assigned to a group will not be the reading they gave the lecture on.
 
 A paper summary must address the following four questions in sufficient details (2-3 pages):
