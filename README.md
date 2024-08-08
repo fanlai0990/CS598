@@ -71,9 +71,9 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 
 |                         | Weight | 
 | ------------------------| ------:| 
-| [Participation](#required_reading)           | 10%    | 
+| [Participation](#required-reading)           | 10%    | 
 | [Paper Presentation](#student-lectures) & [Discussion](#post-presentation_panel_discussion)     | 15%    | 
-| [Paper Summary](#lecture_summaries)           | 15%    | 
+| [Paper Summary](#lecture-summaries)           | 15%    | 
 | [Project Report](#project)          | 40%    | 
 | [Project Presentations](#project)   | 20%    |
 
