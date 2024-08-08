@@ -29,8 +29,8 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 
 ## Tentative Schedule and Reading List
 *This is an evolving list and subject to changes due to the breakneck pace of GenAI innovations.*
-| Date    | Readings                                                                                                             | Presenter | Summary |
-| ------- | -------------------------------------------------------------------------------------------------------------------- | --------- | ------- |
+| Date    | Readings                                                                                                             | Presenter | Summary | Reviewer
+| ------- | -------------------------------------------------------------------------------------------------------------------- | --------- | ------- | -------
 | Aug 26  | **Introduction**<br>[How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)<br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)<br>[Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)<br>[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) 
  |         |  **GenAI Basics** |               
 | Aug 28  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required)<br>[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) (Required)<br>[Attention Is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)<br>[The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) |          |         |        
