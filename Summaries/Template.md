@@ -16,5 +16,5 @@ STUDENT1\_NAME (NetID), STUDENT2\_NAME (NetID), STUDENT3\_NAME (NetID),
 ## Future Research Directions
 
 
-## Summary of Class Discussion
+## Summary of Class Discussion (Reviewer Roles only)
 

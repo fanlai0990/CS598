@@ -1,11 +1,12 @@
+
 # CS 598: Systems for Generative AI (F'24)
 
 ## Logistics
 **Lectures**: 0216 Siebel Center for Computer Science, MW: 9:30 AM – 10:45 AM
 | Member (NetID) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Fan Lai](https://fanlai.me/) (fanlai) | Instructor | 3128 Siebel Center. W 11:00 AM – 12:00 PM
-| [Chengsong Zhang](https://continue-revolution.github.io/) (cz81) | TA | [Zoom](https://illinois.zoom.us/j/83482246470?pwd=3qACwpab8h6qGgAtM6bIvOgu0JxzTC.1). M 11:00 AM - 12:00 PM
+| [Fan Lai](https://fanlai.me/) (fanlai) | Instructor | 3128 Siebel Center. M 11:00 AM – 12:00 PM
+| [Chengsong Zhang](https://continue-revolution.github.io/) (cz81) | TA | [Zoom](https://illinois.zoom.us/j/83482246470?pwd=3qACwpab8h6qGgAtM6bIvOgu0JxzTC.1). W 11:00 AM - 12:00 PM
 
 **Piazza**:  *ALL* communication regarding this course must be via [Piazza](https://piazza.com/illinois/fall2024/cs598fla). This includes questions, discussions, announcements, as well as private messages.
 
@@ -29,19 +30,19 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 
 ## Tentative Schedule and Reading List
 *This is an evolving list and subject to changes due to the breakneck pace of GenAI innovations.*
-| Date    | Readings                                                                                                             | Presenter | Summary | Reviewer
+| Date    | Readings                                                                                                             | Presenter | Companion | Reviewer
 | ------- | -------------------------------------------------------------------------------------------------------------------- | --------- | ------- | -------
-| Aug 26  | **Introduction**<br>[How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)<br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)<br>[Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)<br>[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) 
+| Aug 26  | **Introduction**<br>[How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)<br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)<br>[Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)<br>[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) | Fan
  |         |  **GenAI Basics** |               
 | Aug 28  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required)<br>[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) (Required)<br>[Attention Is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)<br>[The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) |          |         |        
-| Sept 4  | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required)<br>[VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/pdf/2312.14125) (Required)<br>[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748) <br> [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)|          |         |        
+| Sept 4  | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required)<br>[VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/pdf/2312.14125) (Required)<br>[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748) <br> [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)|   Chengsong      |         |        
 | Sept 9  | [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html) (Required)<br>[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)<br>[DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention](https://arxiv.org/abs/2309.14327)<br>[Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html) |          |         |        
 | Sept 11  | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) (Required)<br>[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596) (Required)<br>[Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://dl.acm.org/doi/abs/10.5555/3586589.3586709)<br>[Scaling Vision-Language Models with Sparse Mixture of Experts](https://arxiv.org/abs/2303.07226) |          |         |        
 | Sept 16  | **No Lecture / Work on Project Proposal**<br>[Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better) (Required)<br>[Hints and Principles for Computer System Design](https://arxiv.org/abs/2011.02455)
 |         |  **Pre-Training** |              
 | Sept 18  | [The Llama 3 Herd of Models](https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/453304228_1160109801904614_7143520450792086005_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=PC3CtquZIecQ7kNvgGAswkt&_nc_ht=scontent-sea1-1.xx&oh=00_AYAsVI8tP34-1q_lzl-8hAFCp0g-Jr-sQmwN1PC0IpXEmA&oe=66B5E347) (Sec 1-4, Required)<br>[Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805) |          |         |        
 | Sept 23  | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) (Required)<br>[Perseus: Removing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902) (Required)<br>[LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers](https://arxiv.org/abs/2310.03294) |          |         |        
-| Sept 25  | [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/abs/2402.15627) (Required)<br>[Alibaba HPN: A Data Center Network for Large Language Model Training](https://ennanzhai.github.io/pub/sigcomm24-hpn.pdf) (Required)<br>[GEMINI: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf) |          |         |        
+| Sept 25  | [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/abs/2402.15627) (Required)<br>[RDMA over Ethernet for Distributed AI Training at Meta Scale](https://dl.acm.org/doi/10.1145/3651890.3672233) (Required)<br>[GEMINI: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf) |          |         |        
 | Sept 30  | [SimAI: Unifying Architecture Design and Performance Tunning for Large-Scale Large Language Model Training with Scalability and Precision]() (Required)<br>[Vidur: A Large-Scale Simulation Framework For LLM Inference](https://arxiv.org/abs/2405.05465) (Required)<br>[Towards a Flexible and High-Fidelity Approach to Distributed DNN Training Emulation](https://arxiv.org/abs/2405.02969) |          |         |    
 | | **Alignment & Post-Training Optimization**    
 | Oct 2  | [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9) (Required)<br>[S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285) (Required)<br>[Stylus: Automatic Adapter Selection for Diffusion Models](https://arxiv.org/abs/2404.18928) |          |         |        
@@ -84,7 +85,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 ## Policies
 
 ### Participation
-**Before Each Lecture**: Each lecture will include one or two required reading that everyone must read.   There will be *optional related reading(s)* that only the presenter(s) should be familiar with. They are optional for the rest of the class.  You are required to [submit](https://forms.gle/WNvTkRmodapagD6d7) **one insightful question** for each presented papers before each class (up to 2 absences). 
+**Before Each Lecture**: Each lecture will include one or two required reading that everyone must read.   There will be *optional related reading(s)* that only the presenter(s) should be familiar with. They are optional for the rest of the class.  You are required to [submit](https://forms.gle/WNvTkRmodapagD6d7) **one insightful question** for each presented papers before each lecture. 
 
 **During Lectures**: Active participation is crucial for both your own understanding and to improve the overall quality of the course. You are expected to attend **all** lectures (up to 2 absences allowed for legitimate reasons), and more importantly, participate in class discussions. Not everyone must have add something every day, but it is expected that everyone has something to share over the semester.
 
@@ -110,22 +111,22 @@ To foster a deeper understanding of the papers and encourage critical thinking, 
 #### Roles and Responsibilities
 
 1. **The Authors**
-- Group Assignment: The group that presents the paper and the group that writes the summary will play the role of the paper's authors.
+- Group Assignment: The 'Companion' group will write the summary and play the role of the paper's authors.
 - Responsibility: As authors, you are expected to defend your paper against critiques, answer questions, and discuss how you might improve or extend your research in the future, akin to writing a rebuttal during the peer-review process.
 
 
 2. **The Reviewers**
-- Group Assignment: Each group will be assigned to one slot to play the role of reviewers.
+- Group Assignment: The 'Reviewer' group will write the summary and will be assigned to one slot to play the role of reviewers.
 - Responsibility: Reviewers critically assess the paper, posing challenging questions and highlighting potential weaknesses or areas for further investigation. 
 Your goal is to engage in a constructive critique of the paper, simulating a peer review scenario.
 
  
-3. **Rest of the Class**
+3. **Rest of the Class** (including the presenters)
 - Responsibility: During the panel discussions, feel free to actively **ask questions** and engage in the dialogue. 
 
 
 ### Lecture Summaries
-Each group will also be assigned to **write summaries for at least TWO lectures**. 
+Each group will also be assigned to **write summaries for roughly two lectures**: one in the 'Companion' role and the other in the 'Reviewer' role.
 The summary assigned to a group will not be the reading they gave the lecture on.
 
 A paper summary must address the following four questions in sufficient details (2-3 pages):
@@ -149,7 +150,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 * Turn in a 2-page draft proposal, plus as many pages as needed for references, by **September 26**. Remember to include the names and UIUC email addresses of the group members. 
 * Each group must present mid-semester progress during class hours on **October 21 and October 23**.
-* Each group must turn in an 8-page final report and your code via email **on or before 6:00PM CDT on December 19.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
+* Each group must turn in an 8-page final report and your code via email **on or before 6:00PM CST on December 19.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 * You can find how to access GPU resources [here](./Resources/Starting%20with%20Cloudlab).
 
 
