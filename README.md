@@ -32,7 +32,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 *This is an evolving list and subject to changes due to the breakneck pace of GenAI innovations.*
 | Date    | Readings                                                                                                             | Presenter | Companion | Reviewer
 | ------- | -------------------------------------------------------------------------------------------------------------------- | --------- | ------- | -------
-| Aug 26  | **Introduction**<br>[How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)<br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)<br>[Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)<br>[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) | Fan
+| Aug 26  | **Introduction**<br>[How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) (Required)<br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) (Required)<br>[Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)<br>[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) | [Fan](./Slides/fan-overview.pdf)
  |         |  **GenAI Basics** |               
 | Aug 28  | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required)<br>[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) (Required)<br>[Attention Is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349)<br>[The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/) |          |         |        
 | Sept 4  | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Required)<br>[VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/pdf/2312.14125) (Required)<br>[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748) <br> [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125)|   Chengsong      |         |        
@@ -68,7 +68,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Dec 7   | **No Class: Prep for Project Report** |      
  
  ## Tentative Grading
-**Groups**:  All activities of this course, except your own participation :), will be performed in groups of 2-3 students. Form a group of 2-3 members and [declare your group's membership and paper preferences](https://forms.gle/9uYt81zpmoTWw9WU6) by **Sept 5**. After this date, we will form groups from the remaining students.
+**Groups**:  All activities of this course, except your own participation :), will be performed in groups of 3 students. Form a group of 3 members and [declare your group's membership and paper preferences](https://forms.gle/xeZ49ytNtRUmWygL8) by **Sept 5**. After this date, we will form groups from the remaining students.
 
 |                         | Weight | 
 | ------------------------| ------:| 
