@@ -16,7 +16,7 @@ Click on `Join Existing Project` and enter `UIUC-AISys` as the project name.
 Then click on `Submit Request`. 
 The project leader (Prof. Lai) will approve your request. 
 See the screenshot below. 
-![Screenshot-Register](TODO)
+![Screenshot-Register](https://github.com/user-attachments/assets/8ca448d0-a371-4d7f-b299-4f90f933a5b0)
 
 If you already have a CloudLab account, simply request to join the `UIUC-AISys` project.
 
