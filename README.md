@@ -151,8 +151,7 @@ You must meet the following milestones (unless otherwise specified in future ann
 * Turn in a 2-page draft proposal, plus as many pages as needed for references, by **September 26**. Remember to include the names and UIUC email addresses of the group members. 
 * Each group must present mid-semester progress during class hours on **October 21 and October 23**.
 * Each group must turn in an 8-page final report and your code via email **on or before 6:00PM CST on December 19.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
-* You can find how to access GPU resources [here](./Resources/Starting%20with%20Cloudlab).
-
+* You can find how to access GPU resources [here](./Resources/cloudlab.md)
 
 ### **Acknowledgements**
 This course is heavily inspired by other excellent system seminar courses, particularly [UMich CSE 585](https://github.com/mosharaf/eecs598/tree/w24-genai). Acknowledgments to [SymbioticLab](https://symbioticlab.org/).	
