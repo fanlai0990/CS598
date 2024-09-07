@@ -28,13 +28,12 @@ Select the profile and click on `Next` to move to the next panel.
 Here you should name your experiment with `<NetID>-A1`. The purpose of doing this is to prevent everyone from picking random names and ending up confusing each other since everyone in the `UIUC-AISys` project can see a full list of experiments created.
 You also need to specify from which cluster you want to start your experiment. Each cluster has a variety of hardware. For more information on the hardware CloudLab provides, please refer to this [page](http://docs.cloudlab.us/hardware.html).
 
-![Screenshot-SelectCluster](TODO)
-
+![Screenshot-SelectCluster](https://github.com/user-attachments/assets/3ca21039-6b79-4e7e-8b3d-4ddaf002bd4b)
 
 ## Reserving Hardware
 To ensure the availability of your cluster, we recommend that you apply for a reservation first. Nodes can be reserved at `My Experiments > Reserve Nodes`. To increase the likelihood of your reservation being approved, we recommend selecting [hardware types](http://docs.cloudlab.us/hardware.html) with many nodes, e.g., 3 m510 nodes at CloundLab Utah. Note that some hardware types have ARM or POWER architecture processors, which might not have supported PyTorch builds.
 
-![Screenshot-ReserveNodes](TODO)
+![Screenshot-ReserveNodes](https://github.com/user-attachments/assets/4904882f-1aa3-41ad-aa28-52152d8c0c42)
 
 ## Policies on Using CloudLab Resources
 1. The nodes you receive from CloudLab are real hardware machines sitting in different clusters. Therefore, we ask you not to hold the nodes for too long. CloudLab gives users 16 hours to start with, and users can extend it for a longer time. Manage your time efficiently and only hold onto those nodes when you are working on the assignment. You should use a private git repository to manage your code, and you must terminate the nodes when you are not using them. If you do have a need to extend the nodes, do not extend them by more than 1 day. **We will terminate any cluster running for more than 48 hours.**
