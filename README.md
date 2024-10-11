@@ -9,7 +9,7 @@
 | Member (NetID) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Fan Lai](https://fanlai.me/) (fanlai) | Instructor | 3128 Siebel Center. M 11:00 AM – 12:00 PM
-| [Chengsong Zhang](https://continue-revolution.github.io/) (cz81) | TA | [Zoom](https://illinois.zoom.us/j/83482246470?pwd=3qACwpab8h6qGgAtM6bIvOgu0JxzTC.1). W 11:00 AM - 12:00 PM
+| [Chengsong Zhang](https://continue-revolution.github.io/) (cz81) | TA | [Zoom](https://illinois.zoom.us/j/83482246470?pwd=3qACwpab8h6qGgAtM6bIvOgu0JxzTC.1). W 07:00 PM - 08:00 PM
 
 **Piazza**:  *ALL* communication regarding this course must be via [Piazza](https://piazza.com/illinois/fall2024/cs598fla). This includes questions, discussions, announcements, as well as private messages.
 
@@ -63,7 +63,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Nov 11  | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://arxiv.org/pdf/2405.19888) (Required)<br>[FLASH: Fast Model Adaptation in ML-Centric Cloud Platforms](https://haoran-qiu.com/pdf/flash.pdf) (Required)<br>[Adapting Foundation Models for Operator Data Analytics](https://conferences.sigcomm.org/hotnets/2023/papers/hotnets23_kotaru.pdf) | Haocheng, Jackson, Ziqi               | Viswajith, Arijus               | Yueshen, Henry, Jianyuan                  |
 | Nov 13  | **No Lecture: Recalibrate Projects** |                                       |                                       |                                           |
 | Nov 18  | [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting) (Required)<br>[Extracting Training Data from Diffusion Models](https://www.usenix.org/conference/usenixsecurity23/presentation/carlini) (Required)<br>[Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/abs/2308.14840) | Ayush, Ritul, Shashwat                        | Jinwei, Yuxuan, Tengjun                | Akul, Aditi, Shraddhaa                    |
-| Nov 20   | **No Class: Prep for Poster Presentation**<br>[How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required) |                                       |                                       |                                           |
+| Nov 20   | **No Class: Prep for Final Presentation**<br>[How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) (Required) |                                       |                                       |                                           |
 | Dec 2   | **Final Presentations**<br> |     
 | Dec 4   | **Final Presentations**<br> |                                       |                                       |                                           |
 | Dec 7   | **No Class: Prep for Project Report** |                                       |                                       |                                           |
