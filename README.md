@@ -32,7 +32,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 
 | Date | Readings | Presenter | Companion | Reviewer |
 |------|----------|-----------|-----------|----------|
-| Jan 21 <br>(GenAI Systems) | **Introduction**<br>[How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) <br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) <br>[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) |     Fan      |           |          |
+| Jan 21 <br>(GenAI Systems) | **Introduction**<br>[How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) <br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) <br>[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) |     Fan ([Slides](./Slides/L1_overview.pdf))      |           |          |
 |   | **GenAI Basics**
 | Jan 23 <br>(LLM Fundamentals) | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)<br>[Flash Attention](https://arxiv.org/abs/2205.14135) | Jimmy | | |
 | Jan 28 <br>(Transformers Deep Dive) |  [FlashAttention-V2](https://arxiv.org/pdf/2307.08691)<br> [Native Sparse Attention](https://arxiv.org/abs/2502.11089) | Fan | | |
@@ -46,6 +46,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Feb 13 <br> (Finetuning Techniques) | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) (Required)<br>[S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285) |  | | |
 | Feb 18 <br> (Exploiting Sparsity) | [AWQ: Activation-aware Weight Quantization](https://arxiv.org/abs/2306.00978) (Required)<br>[Radial Attention: O(n log n) Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/pdf/2506.19852) | | | |
 | Feb 20 <br>(RLHF Systems) | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (Required)<br>[AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298) | | | |
+| Feb 21 | Project Proposal Due | | | |
 | Feb 25 <br>(RLHF Systems) | [Optimizing RLHF Training for Large Language Models with Stage Fusion](https://www.usenix.org/system/files/nsdi25-zhong.pdf) (Required)<br>[RLBoost: Harvesting Preemptible Resources for Cost-Efficient Reinforcement Learning on LLMs](https://arxiv.org/pdf/2510.19225) | | | |
 |   | **Inference**
 | Feb 27 <br> (Inference Runtime) | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) (Required)<br>[Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf) |  | | |
@@ -54,6 +55,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Mar 11 <br> (Optimizing User Experience) | [JITServe: SLO-aware LLM Serving with Imprecise Request Information](https://arxiv.org/abs/2504.20068) (Required)<br>[Mooncake: Trading More Storage for Less Computation](https://www.usenix.org/system/files/fast25-qin.pdf) | | | |
 | Mar 14–22 | **Spring Break**
 | Mar 25 <br> (Optimizing MLLMs) | [ModServe: Scalable and Resource-Efficient Large Multimodal Model Serving](https://haoran-qiu.com/pdf/modserve-preprint.pdf) (Required)<br>[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098) | | | |
+| Mar 27 | Mid-semester Proposal Due | | | |
 | Mar 30  | **Mid-Semester Project Feedback Session** | | | |
 | Apr 3 | **Mid-Semester Project Feedback Session** | | | |
 | Apr 8 <br> (In-Context Caching) | [IC-Cache: Efficient Large Language Model Serving via In-context Caching](https://arxiv.org/abs/2501.12689) (Required)<br>[Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models](https://www.usenix.org/system/files/nsdi24-agarwal-shubham.pdf) | | | |
@@ -66,6 +68,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Apr 29  | Final Project Presentation | | | |
 | May 1  | Final Project Presentation | | | |
 | May 6 | Final Project Presentation | | | |
+| May 15 | Final Report Due | | | |
 
  ## Tentative Grading
 **Groups**:  Panel discussion and research project will be performed in groups of 4-5 students. Form a group and [declare your group's membership and paper preferences](https://forms.gle/TVkqSQAvUfKzsZGA7) by **Feb 1**. After this date, we will form groups from the remaining students.
@@ -121,7 +124,7 @@ In the presentation, you should:
 * Explain the differences between related works as well as the additional reading.
 * Identify strengths and weaknesses of the required reading and propose directions of future research.
 
-*The slides for a presentation must be submitted to Canvas (in \*.pptx format) at least 24 hours prior to the corresponding class for feedbacks.*
+*The slides for a presentation must be submitted to Canvas (in \*.pptx format) at least 48 hours prior to the corresponding class for feedbacks.*
 
 ### Post-Lecture Panel Discussion 
 To foster a deeper understanding of the papers and encourage critical thinking, lectures with paper summary will be followed by a panel discussion. This discussion will involve three distinct roles played by different student groups, simulating an interactive and dynamic scholarly exchange. 
