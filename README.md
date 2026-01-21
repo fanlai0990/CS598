@@ -71,7 +71,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | May 15 | Final Report Due | | | |
 
  ## Tentative Grading
-**Groups**:  Panel discussion and research project will be performed in groups of 4-5 students. Form a group and [declare your group's membership and paper preferences](https://forms.gle/TVkqSQAvUfKzsZGA7) by **Feb 1**. After this date, we will form groups from the remaining students.
+**Groups**:  Panel discussion and research project will be performed in groups of 4-5 students. Form a group and [declare your group's membership and paper preferences](https://forms.gle/hTcqL2BmQrrSHuTA7) by **Feb 1**. After this date, we will form groups from the remaining students.
 
 |                         | Weight | 
 | ------------------------| :------| 
@@ -97,14 +97,13 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 You need to select and write paper summaries from **14 papers out of 19 listed papers**. The summary should be done independently and include the following contents (five paragraphs):
 
 - P1: The problem the paper is trying to tackle. What's the impact of the work, e.g., why is it an important problem to solve? 
-- P2: The main proposed idea(s). 
-- P3: A summary of your understanding of different components of the proposed technique, e.g., the purpose of critical design choices.
-- P4: Your perceived strengths and weaknesses of the work, e.g., novelty, significance of improvements, quality of the evaluation, easy-to-use.
-- P5: Is there room for improvement? If so, what idea do you have for improving the techniques? 
+- P2: The main proposed idea(s). A summary of your understanding of different components of the proposed technique, e.g., the purpose of critical design choices.
+- P3: Your perceived strengths and weaknesses of the work, e.g., novelty, significance of improvements, quality of the evaluation, easy-to-use.
+- P4: Is there room for improvement? If so, what idea do you have for improving the techniques? 
 
 You do not need to write super long paragraphs, as long as you have the key points listed out in each paragraph. You can discuss the paper with other students, but all of your writing work should be your own. DO NOT use AI tools to draft it!
 
-In terms of grading criteria, each summary has 10 points in total. For each review item above, you get:
+In terms of grading criteria, each summary has 8 points in total. For each review item above, you get:
 
 - 2: The summary item demonstrates a clear understanding of the paper.
 - 1: The summary item misses the point of the paper.
