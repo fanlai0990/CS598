@@ -34,9 +34,9 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 |------|----------|-----------|-----------|----------|
 | Jan 21 <br>(GenAI Systems) | **Introduction**<br>[How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) <br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) <br>[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) |     Fan ([Slides](./Slides/L1_overview.pdf))      |           |          |
 |   | **GenAI Basics**
-| Jan 23 <br>(LLM Fundamentals) | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)<br>[Flash Attention](https://arxiv.org/abs/2205.14135) | [Jimmy](./Slides/L2_transformers.pdf) | | |
-| Jan 28 <br>(Transformers Deep Dive) |  [FlashAttention-V2](https://arxiv.org/pdf/2307.08691)<br> [Native Sparse Attention](https://arxiv.org/abs/2502.11089) | [Fan](./Slides/) | | |
-| Jan 30 <br> (Scalable ML) | [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) <br> [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053) | Fan | | |
+| Jan 23 <br>(LLM Fundamentals) | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)<br>[Flash Attention](https://arxiv.org/abs/2205.14135) | Jimmy ([Slides](./Slides/L2_transformers.pdf)) | | |
+| Jan 28 <br>(Transformers Deep Dive) |  [FlashAttention-V2](https://arxiv.org/pdf/2307.08691)<br> [Native Sparse Attention](https://arxiv.org/abs/2502.11089) | Fan ([Slides](./Slides/L3_Transformers_Deep.pdf)) | | |
+| Jan 30 <br> (Scalable ML) | [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) <br> [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053) | Fan ([Slides](./Slides/L4_scalable_ml_overview.pdf)) | | |
 | Feb 4  | No Class (Proposal Feedback Session) | Fan <br> (SC 3128)| | |
 | Feb 6 <br> (Diffusion Models) | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-transformer/) <br>[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748) (Required) | | | |
 |   | **Pre-Training**
@@ -44,7 +44,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Feb 13 <br> (Training MoEs) | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/pdf?id=B1ckMDqlg) (Required)<br>[FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models](https://arxiv.org/abs/2501.10714) | | | |
 | Feb 18 <br> (Fault Tolerance) | [TrainVerify: Equivalence-Based Verification for Distributed LLM Training](https://www.arxiv.org/pdf/2506.15961) (Required)<br>[Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://arxiv.org/abs/2309.08125) | | | |
 |   | **Post-Training**
-| Feb 20 <br> (Finetuning Techniques) | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) (Required)<br>[S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285) |  | | |
+| Feb 20 <br> (Finetuning Techniques) | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) (Required)<br>[dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving](https://www.usenix.org/system/files/osdi24-wu-bingyang.pdf) |  | | |
 | Feb 21 | Project Proposal Due | | | |
 | Feb 25 <br> (Exploiting Sparsity) | [AWQ: Activation-aware Weight Quantization](https://arxiv.org/abs/2306.00978) (Required)<br>[Radial Attention: O(n log n) Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/pdf/2506.19852) | | | |
 | Feb 27 <br>(RLHF Systems) | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (Required)<br>[AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298) | | | |
