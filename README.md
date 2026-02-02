@@ -122,7 +122,7 @@ In the presentation, you should:
 * Present the high level idea, approach, and/or insight (using examples, whenever appropriate) in both of the readings. 
 * Discuss technical details so that one can understand key details without carefully reading (quickly skim the evaluations).
 * Explain the differences between related works as well as the additional reading.
-* Identify strengths and weaknesses of the both of the readings and propose directions of future research.
+* Identify strengths and weaknesses of both of the readings and propose directions of future research.
 
 *The slides for a presentation must be submitted to Canvas (in \*.pptx format) at least 48 hours prior to the corresponding class for feedbacks.*
 
