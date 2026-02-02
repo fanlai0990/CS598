@@ -38,7 +38,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Jan 28 <br>(Transformers Deep Dive) |  [FlashAttention-V2](https://arxiv.org/pdf/2307.08691)<br> [Native Sparse Attention](https://arxiv.org/abs/2502.11089) | Fan ([Slides](./Slides/L3_Transformers_Deep.pdf)) | | |
 | Jan 30 <br> (Scalable ML) | [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) <br> [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053) | Fan ([Slides](./Slides/L4_scalable_ml_overview.pdf)) | | |
 | Feb 4  | No Class (Proposal Feedback Session) | Fan <br> (SC 3128)| | |
-| Feb 6 <br> (Diffusion Models) | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-transformer/) <br>[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748) (Required) | | | |
+| Feb 6 <br> (Diffusion Models) | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) <br>[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748) (Required) | | | |
 |   | **Pre-Training**
 | Feb 11 <br> (Hybrid Parallelism) | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://arxiv.org/abs/2104.04473) (Required)<br>[Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf) | | | |
 | Feb 13 <br> (Training MoEs) | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/pdf?id=B1ckMDqlg) (Required)<br>[FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models](https://arxiv.org/abs/2501.10714) | | | |
@@ -113,16 +113,16 @@ In terms of grading criteria, each summary has 8 points in total. For each revie
 Due to selecting the 14/19 paper summaries, late submissions will NOT be accepted and will receive 0 points.
 
 ### Paper Presentation
-The course will be conducted as a seminar. Only one group will present in each class. Each group will be assigned *one lecture* over the course of the semester. Presentations should last **at most 45 minutes** without interruption.
+The course will be conducted as a seminar. Only one group will present in each class. Each group will be assigned *one lecture* over the course of the semester. Presenters will be expected to cover both of the readings, not just the required one. Presentations should last **at most 45 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
 
 In the presentation, you should:
 
 * Provide a brief background to motivate the problem (e.g., simplifying this by referencing previous talks)
-* Present the high level idea, approach, and/or insight (using examples, whenever appropriate) in the required reading. 
+* Present the high level idea, approach, and/or insight (using examples, whenever appropriate) in both of the readings. 
 * Discuss technical details so that one can understand key details without carefully reading (quickly skim the evaluations).
 * Explain the differences between related works as well as the additional reading.
-* Identify strengths and weaknesses of the required reading and propose directions of future research.
+* Identify strengths and weaknesses of the both of the readings and propose directions of future research.
 
 *The slides for a presentation must be submitted to Canvas (in \*.pptx format) at least 48 hours prior to the corresponding class for feedbacks.*
 
