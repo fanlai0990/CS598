@@ -9,7 +9,7 @@
 
 **Canvas**:  *ALL* communication regarding this course must be via [Canvas](https://canvas.illinois.edu/courses/67788). This includes questions, discussions, announcements, assignments, as well as private messages.
 
-Presentation slides should be submitted to Canvas.
+Presentation slides should be submitted to Canvas ([Presentation Evaluation Form](https://forms.gle/d6Dzw7o1SF7sbpJ77)).
 
 ## Course Description
 **Learning Objectives**: This course will introduce the key concepts and the state-of-the-art in practical, scalable, and fault-tolerant software systems for emerging Generative AI (GenAI). At the end of the course you will be able to: 
