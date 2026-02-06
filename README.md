@@ -38,7 +38,7 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Jan 28 <br>(Transformers Deep Dive) |  [FlashAttention-V2](https://arxiv.org/pdf/2307.08691)<br> [Native Sparse Attention](https://arxiv.org/abs/2502.11089) | Fan ([Slides](./Slides/L3_Transformers_Deep.pdf)) | | |
 | Jan 30 <br> (Scalable ML) | [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) <br> [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053) | Fan ([Slides](./Slides/L4_scalable_ml_overview.pdf)) | | |
 | Feb 4  | No Class (Proposal Feedback Session) | Fan <br> (SC 3128)| | |
-| Feb 6 <br> (Diffusion Models) | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) <br>[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748) (Required) | snian2, zhangw2, tuanmn2, yaqiq2, tonyhong | ruoanw2, dc29, huiren2, changl25 | porters2, bhatkar3, htong9, runying2 | 
+| Feb 6 <br> (Diffusion Models) | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) <br>[Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748) (Required) | snian2, zhangw2, tuanmn2, yaqiq2, tonyhong ([Slides](./Slides/L5_diffusion.pdf)) | ruoanw2, dc29, huiren2, changl25 | porters2, bhatkar3, htong9, runying2 | 
 |   | **Pre-Training**
 | Feb 11 <br> (Hybrid Parallelism) | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://arxiv.org/abs/2104.04473) (Required)<br>[Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf) | porters2, bhatkar3, htong9, runying2 | mae10, dhaw2, yuf7, namanr2, ktrikha2 | mihirs2, riyajj2, kmaka5, pjakka3, aparekh6 |
 | Feb 13 <br> (Training MoEs) | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/pdf?id=B1ckMDqlg) (Required)<br>[FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models](https://arxiv.org/abs/2501.10714) | ronita2, dsingh14, rto4, kv22, yanniz3 | porters2, bhatkar3, htong9, runying2 | ruoanw2, dc29, huiren2, changl25 |
@@ -113,7 +113,7 @@ In terms of grading criteria, each summary has 8 points in total. For each revie
 Due to selecting the 14/19 paper summaries, late submissions will NOT be accepted and will receive 0 points.
 
 ### Paper Presentation
-The course will be conducted as a seminar. Only one group will present in each class. Each group will be assigned *one lecture* over the course of the semester. Presenters will be expected to cover both of the readings, not just the required one. Presentations should last **at most 45 minutes** without interruption.
+The course will be conducted as a seminar. Only one group will present in each class. Each group will be assigned *one lecture* over the course of the semester. Presenters will be expected to cover both of the readings, not just the required one. Presentations should last **at most 50 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
 
 In the presentation, you should:
@@ -127,7 +127,7 @@ In the presentation, you should:
 *The slides for a presentation must be submitted to Canvas (in \*.pptx format) at least 48 hours prior to the corresponding class for feedbacks.*
 
 ### Post-Lecture Panel Discussion 
-To foster a deeper understanding of the papers and encourage critical thinking, lectures with paper summary will be followed by a panel discussion. This discussion will involve three distinct roles played by different student groups, simulating an interactive and dynamic scholarly exchange. 
+To foster a deeper understanding of the papers and encourage critical thinking, lectures with paper summary will be followed by a panel discussion. This discussion will involve three distinct roles played by different student groups, covering both papers (including the optional one) and simulating an interactive and dynamic scholarly exchange. 
 
 #### Roles and Responsibilities
 
