@@ -5,7 +5,7 @@
 | Member (NetID) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Fan Lai](https://fanlai.me/) (fanlai) | Instructor | 3128 Siebel Center. F 2 PM – 3 PM
-| [Jimmy Shong](https://jiminator.github.io/PersonalSite/) (jimmys2) <br> Yuhan Ding (yuhand7) | TAs | [Zoom](https://illinois.zoom.us/j/82278931782?pwd=OuM7Ep1OOXMeSuXXexmTAIuUOJz1bE.1). W 7:00 PM - 8:00 PM
+| [Jimmy Shong](https://jiminator.github.io/PersonalSite/) (jimmys2) <br> Yuhan Ding (yuhand7) | TAs | [Zoom](https://illinois.zoom.us/j/89019520148?pwd=dcPT7ADu9SF8T7F0bDbi1DPMr0f2wr.1). W 7:00 PM - 8:00 PM
 
 **Canvas**:  *ALL* communication regarding this course must be via [Canvas](https://canvas.illinois.edu/courses/67788). This includes questions, discussions, announcements, assignments, as well as private messages.
 
