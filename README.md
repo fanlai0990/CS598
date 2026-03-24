@@ -56,9 +56,9 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Mar 14–22 | **Spring Break**
 | Mar 25 <br> (Optimizing User Experience) | [JITServe: SLO-aware LLM Serving with Imprecise Request Information](https://arxiv.org/abs/2504.20068) (Required)<br>[Mooncake: Trading More Storage for Less Computation](https://www.usenix.org/system/files/fast25-qin.pdf) | npunati2, srd8, obp2 | snian2, zhangw2, tuanmn2, yaqiq2, tonyhong | yuyangw5, yeyu4, hw98, leolu2 |
 | Mar 27 <br> (Optimizing MLLMs) | [ModServe: Scalable and Resource-Efficient Large Multimodal Model Serving](https://haoran-qiu.com/pdf/modserve-preprint.pdf) (Required)<br>[Cornserve: Efficiently Serving Any-to-Any Multimodal Models](https://arxiv.org/abs/2512.14098) | hhunma2, cud2, pranav33, enyasun2, ambikas2 | jerry8, yuchen85, haorany7, pw29 | npunati2, srd8, obp2 |
-| Mar 27 | Mid-semester Proposal Due | | | |
 | Apr 1 | **Mid-Semester Project Feedback Session** | | | |
 | Apr 3 | **Mid-Semester Project Feedback Session** | | | |
+| Apr 5 | Mid-semester Proposal Due | | | |
 | Apr 8 <br> (In-Context Caching) | [IC-Cache: Efficient Large Language Model Serving via In-context Caching](https://arxiv.org/abs/2501.12689) (Required)<br>[Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models](https://www.usenix.org/system/files/nsdi24-agarwal-shubham.pdf) | yuyangw5, yeyu4, hw98, leolu2 | npunati2, srd8, obp2 | snian2, zhangw2, tuanmn2, yaqiq2, tonyhong |
 | Apr 10 <br> (Diffusion Serving) | [PipeFusion: Patch-level Pipeline Parallelism for Diffusion Transformers Inference](https://arxiv.org/pdf/2405.14430) (Required)<br>[StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation](https://arxiv.org/abs/2511.07399) | khota2, dcku2, sankalp6, james40 | yuyangw5, yeyu4, hw98, leolu2 | jerry8, yuchen85, haorany7, pw29 |
 | | **Agentic AI Systems** | | | |
@@ -151,8 +151,8 @@ You will have to complete substantive work an instructor-approved problem and ha
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 
 * Turn in a 2-page draft proposal ([template](https://www.overleaf.com/read/bsrcbphcvyzc#d075e8)), plus as many pages as needed for references, by **February 21**. Remember to include the names and UIUC email addresses of the group members. 
-* Each group must turn in a 4-page mid-semester report, plus as many pages as needed for references, via email **on or before 6:00PM CST on March 27.** 
 * Each group must schedule project discussion with the instructor during class hours or office hours in the week of **March 30** and **April 3**.
+* Each group must turn in a 4-page mid-semester report, plus as many pages as needed for references, via email **on or before 11:59PM CST on April 5.** 
 * Each group must turn in an 8-page final report, plus as many pages as needed for references, and your code via email **on or before 6:00PM CST on May 15.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted to Canvas as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 * You can find how to access GPU resources [here](./Resources/cloudlab.md).
 
